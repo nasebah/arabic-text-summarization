@@ -51,7 +51,7 @@ Summarization Output:
 
 ![alt text](images/mbart_output_msa.png)
 
-I have noticed that the mBart model only outputs the first words of a text based on the maximum length specified.
+I have noticed that the mBART-50 model only outputs the first words of a text based on the maximum length specified.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1odB49lxv9dqipToxO4ww6eTqqCTv18eG?usp=sharing)
 
