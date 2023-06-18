@@ -1,4 +1,7 @@
 # arabic-text-summarization 📚
+[![PyPI version](https://badge.fury.io/py/tner.svg)](https://badge.fury.io/py/tner)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/tner.svg)](https://pypi.python.org/pypi/tner/)
+[![PyPI status](https://img.shields.io/pypi/status/tner.svg)](https://pypi.python.org/pypi/tner/)
 
 For this task the following is used:
 1. for preprossing: NLTK library
