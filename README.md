@@ -4,8 +4,8 @@
 For this task the following is used:
 1. for preprossing: NLTK library
 2. for text summarization two different strategies used:
-   2.1 FREQUENCY METHOD
-   2.2 Transformers
+   - FREQUENCY METHOD
+   - Transformers
 
 the data i used are Wikipedia articles one for [Modern Standard Arabic(MSA)](https://ar.wikipedia.org/wiki/لهجة_مصرية) and the other in [Egyptian Arabic (dialect)](https://arz.wikipedia.org/wiki/اللغه_المصريه_الحديثه)
 
