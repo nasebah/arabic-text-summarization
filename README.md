@@ -2,7 +2,7 @@
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/tner.svg)](https://pypi.python.org/pypi/tner/)
 
 For this task the following is used:
-1. for preprossing: NLTK library
+1. for text preprossing: NLTK library
 2. for text summarization two different strategies used:
    - Frequency Method
    - Transformers
@@ -19,7 +19,9 @@ And here is  the input data  for Egyptian Arabic:
 
 
 
-1. NLTK library
+1.Text Preprocessing
+
+ - NLTK library
 
 
 2. Text Summarization
