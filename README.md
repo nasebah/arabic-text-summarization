@@ -30,14 +30,14 @@ Summarization Output:
    2.2 TEXT SUMMARIZATION USING Hugging Face Transformers
 I used the HuggingFace transformers library. The Transformers library provides thousands of pre-trained models to perform tasks such as text summarization. the two pre-trained models that i try and worked are the following:
 
-1. Albert ⭐️: https://huggingface.co/albert-base-v2
+1. [Albert](https://huggingface.co/albert-base-v2) ⭐️: 
 
 Summarization Output
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-2. mBART-50 ⭐️: https://huggingface.co/facebook/mbart-large-50
+2. [mBART-50](https://huggingface.co/facebook/mbart-large-50) ⭐️: 
 
 Summarization Output
 
