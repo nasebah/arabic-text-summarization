@@ -41,6 +41,7 @@ I used the HuggingFace transformers library. The Transformers library provides t
 
 Summarization Output:
 
+![alt text](images/albert_output.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J5p72_I7IbZNHFkrzUKh2DMfAapSPDQU?usp=sharing)
 
