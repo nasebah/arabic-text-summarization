@@ -20,7 +20,7 @@ input Egyptian Arabic:
 
 2. TEXT SUMMARIZATION
 
-   2.1 TEXT SUMMARIZATION USING THE FREQUENCY METHOD
+   - TEXT SUMMARIZATION USING THE FREQUENCY METHOD
    In this method we find the frequency of all the words in our text data and store the text data and its frequency in a dictionary. After that, we tokenize our text data. The sentences which contain more high frequency words will be kept in our final summary data.
 
 Summarization Output:
@@ -28,7 +28,7 @@ Summarization Output:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-   2.2 TEXT SUMMARIZATION USING Hugging Face Transformers
+  - TEXT SUMMARIZATION USING Hugging Face Transformers
 I used the HuggingFace transformers library. The Transformers library provides thousands of pre-trained models to perform tasks such as text summarization. the two pre-trained models that i try and worked are the following:
 
 1. [Albert](https://huggingface.co/albert-base-v2) ⭐️: 
