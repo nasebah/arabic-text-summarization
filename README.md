@@ -30,7 +30,7 @@ And here is  the input data  for Egyptian Arabic:
 Here is the output of the Summarization of MSA Wikipedia Page. It is a 100 words summary:
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J4BvJBUsQZYoMCHsGR8-zYgEPQ4_Huu_?usp=sharing)
 
  - Text Summarization Using Hugging Face Transformers
 I used the HuggingFace transformers library. The Transformers library provides thousands of pre-trained models to perform tasks such as text summarization. the two pre-trained models that i try and worked are the following:
@@ -40,7 +40,7 @@ I used the HuggingFace transformers library. The Transformers library provides t
 Summarization Output:
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J5p72_I7IbZNHFkrzUKh2DMfAapSPDQU?usp=sharing)
 
 2. [mBART-50](https://huggingface.co/facebook/mbart-large-50) ⭐️: 
 
