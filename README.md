@@ -26,7 +26,7 @@ And here is  the input data  for Egyptian Arabic:
 
 2. Text Summarization
 
- - Text Summarization Using the Frequency Method
+ - **Text Summarization Using the Frequency Method**
    
    In this method we find the frequency of all the words in our text data and store the text data and its frequency in a dictionary. After that, we tokenize our text data. The sentences which contain more high frequency words will be kept in our final summary data.
 
