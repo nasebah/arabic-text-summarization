@@ -13,8 +13,9 @@ Here is what the input data (MSA) looks like:
 ![alt text](images/mbart_input_MSA.png)
 
 
+And here is  the input data  for Egyptian Arabic:
+![alt text](images/mbart_input_MSA.png)
 
-input data for Egyptian Arabic:
 
 
 
