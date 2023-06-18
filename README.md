@@ -30,7 +30,9 @@ And here is  the input data  for Egyptian Arabic:
    
    In this method we find the frequency of all the words in our text data and store the text data and its frequency in a dictionary. After that, we tokenize our text data. The sentences which contain more high frequency words will be kept in our final summary data.
 
-Here is the output of the Summarization of MSA Wikipedia Page. It is a 100 words summary:
+Here is the output of the Summarization of MSA Wikipedia Page. It is a 111 words summary:
+
+![alt text](images/msa_output_freq.png)
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J4BvJBUsQZYoMCHsGR8-zYgEPQ4_Huu_?usp=sharing)
