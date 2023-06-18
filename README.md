@@ -7,7 +7,7 @@ For this task the following is used:
    - Frequency Method
    - Transformers
 
-The data i used are Wikipedia articles one for [Modern Standard Arabic(MSA)](https://ar.wikipedia.org/wiki/لهجة_مصرية) and the other in [Egyptian Arabic (dialect)](https://arz.wikipedia.org/wiki/اللغه_المصريه_الحديثه)
+The data i used are two Wikipedia articles one for [Modern Standard Arabic(MSA)](https://ar.wikipedia.org/wiki/لهجة_مصرية) and the other in [Egyptian Arabic (dialect)](https://arz.wikipedia.org/wiki/اللغه_المصريه_الحديثه)
 
 Here is what the input data (MSA) looks like:
 ![alt text](images/mbart_input_MSA.png)
