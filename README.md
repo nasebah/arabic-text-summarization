@@ -10,7 +10,7 @@ For this task the following is used:
 the data i used are Wikipedia articles one for [Modern Standard Arabic(MSA)](https://ar.wikipedia.org/wiki/لهجة_مصرية) and the other in [Egyptian Arabic (dialect)](https://arz.wikipedia.org/wiki/اللغه_المصريه_الحديثه)
 
 Here is what the input data (MSA) looks like:
-mbart_input_MSA.png
+![alt text](mbart_input_MSA.png)
 
 
 
