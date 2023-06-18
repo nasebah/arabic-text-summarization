@@ -6,7 +6,7 @@ For this task the following is used:
    2.1 FREQUENCY METHOD
    2.2 Transformers
 
-the data i used are Wikipedia articles one for Modern Standard Arabic(MSA) and the other in Egyptian Arabic (dialect) 
+the data i used are Wikipedia articles one for Modern Standard Arabic(MSA) and the other in Egyptian Arabic (dialect)
 
 input MSA:
 
@@ -22,7 +22,7 @@ input Egyptian Arabic:
    2.1 TEXT SUMMARIZATION USING THE FREQUENCY METHOD
    In this method we find the frequency of all the words in our text data and store the text data and its frequency in a dictionary. After that, we tokenize our text data. The sentences which contain more high frequency words will be kept in our final summary data.
 
-
+Summarization Output:
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
@@ -32,10 +32,15 @@ I used the HuggingFace transformers library. The Transformers library provides t
 
 1. Albert ⭐️: https://huggingface.co/albert-base-v2
 
+Summarization Output
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 2. mBART-50 ⭐️: https://huggingface.co/facebook/mbart-large-50
+
+Summarization Output
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
