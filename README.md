@@ -7,7 +7,7 @@ For this task the following is used:
    - Frequency Method
    - Transformers
 
-The data i used are two Wikipedia articles one for [Modern Standard Arabic(MSA)](https://ar.wikipedia.org/wiki/لهجة_مصرية) and the other in [Egyptian Arabic (dialect)](https://arz.wikipedia.org/wiki/اللغه_المصريه_الحديثه)
+The data that I used are two Wikipedia articles one for [Modern Standard Arabic(MSA)](https://ar.wikipedia.org/wiki/لهجة_مصرية) and the other in [Egyptian Arabic (dialect)](https://arz.wikipedia.org/wiki/اللغه_المصريه_الحديثه)
 
 Here is what the input data (MSA) looks like:
 ![alt text](images/mbart_input_MSA.png)
@@ -24,10 +24,10 @@ there is many nlp .........
 
 the main two are: **NLTK and sPacy**
 because 
-but i choose NLTK
+but I choose NLTK
 
  - **NLTK library**
-I used NLTK library to remove HTML tags, punctuations, and symbols from text. Also i used to define stop words.
+I used NLTK library to remove HTML tags, punctuations, and symbols from text. Also I used to define stop words.
 
 2. Text Summarization
 
