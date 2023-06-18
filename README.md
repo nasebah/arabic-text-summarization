@@ -46,7 +46,7 @@ I used the HuggingFace transformers library. The Transformers library provides t
 
 1. [Albert](https://huggingface.co/albert-base-v2) ⭐️: 
 
-Summarization Output. It is a 55 words summary::
+Summarization Output. It is a 55 words summary:
 
 ![alt text](images/albert_output.png)
 
@@ -54,7 +54,7 @@ Summarization Output. It is a 55 words summary::
 
 2. [mBART-50](https://huggingface.co/facebook/mbart-large-50) ⭐️: 
 
-Summarization Output. It is a 59 words summary::
+Summarization Output. It is a 59 words summary:
 
 ![alt text](images/mbart_output_msa.png)
 
