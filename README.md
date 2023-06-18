@@ -48,7 +48,7 @@ Summarization Output:
 
 ![alt text](images/mbart_output_msa.png)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1odB49lxv9dqipToxO4ww6eTqqCTv18eGusp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1odB49lxv9dqipToxO4ww6eTqqCTv18eG?usp=sharing)
 
 
 
