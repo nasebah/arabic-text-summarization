@@ -46,6 +46,7 @@ Summarization Output:
 
 Summarization Output:
 
+![alt text](images/mbart_output_msa.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
