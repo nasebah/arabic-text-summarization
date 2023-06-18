@@ -32,9 +32,6 @@ I used NLTK library to remove HTML tags, punctuations, and symbols from text. Al
 2. Text Summarization
 
  - **Text Summarization Using the Frequency Method**
-   
-   In this method we find the frequency of all the words in our text data and store the text data and its frequency in a dictionary. After that, we tokenize our text data. The sentences which contain more high frequency words will be kept in our final summary data.
-
    In this method, we first find the frequency of all the words in our text data. We do this by creating a dictionary where each word is associated with its frequency. Once we have the frequency dictionary, we tokenize our text data. Finally, we select the sentences that contain the most high-frequency words and store them in our final summary data.
 
 Here is the output of the Summarization of MSA Wikipedia Page. It is a 111 words summary:
