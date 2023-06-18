@@ -20,9 +20,14 @@ And here is  the input data  for Egyptian Arabic:
 
 
 1. Text Preprocessing
+there is many nlp .........
+
+the main two are: **NLTK and sPacy**
+because 
+but i choose NLTK
 
  - **NLTK library**
-
+I used NLTK library to remove HTML tags, punctuations, and symbols from text. Also i used to define stop words.
 
 2. Text Summarization
 
