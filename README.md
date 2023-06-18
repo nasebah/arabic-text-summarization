@@ -9,9 +9,12 @@ For this task the following is used:
 
 the data i used are Wikipedia articles one for [Modern Standard Arabic(MSA)](https://ar.wikipedia.org/wiki/لهجة_مصرية) and the other in [Egyptian Arabic (dialect)](https://arz.wikipedia.org/wiki/اللغه_المصريه_الحديثه)
 
-input MSA:
+Here is what the input data (MSA) looks like:
+![Uploading mbart_input_MSA.png…]()
 
-input Egyptian Arabic:
+
+
+input data for Egyptian Arabic:
 
 
 
@@ -23,7 +26,7 @@ input Egyptian Arabic:
  - Text Summarization Using the Frequency Method
    In this method we find the frequency of all the words in our text data and store the text data and its frequency in a dictionary. After that, we tokenize our text data. The sentences which contain more high frequency words will be kept in our final summary data.
 
-Summarization Output:
+Here is the output of the Summarization of MSA Wikipedia Page. It is a 100 words summary:
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
