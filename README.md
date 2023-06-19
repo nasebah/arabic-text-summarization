@@ -35,7 +35,7 @@ Since in this task I want a general-purpose NLP library with a wide range of fea
 
 
  - **NLTK library**
-I used NLTK library to remove HTML tags, punctuations, and symbols from text. Also I used to define stop words.
+I used NLTK library to perform word tokenization, sentence tokenization, and stemming. Also I used it to define stop words.
 
 # Text Summarization
 
