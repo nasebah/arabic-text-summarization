@@ -40,6 +40,7 @@ I used NLTK library to perform word tokenization, sentence tokenization, and ste
 # Text Summarization
 
  - **Text Summarization Using the Frequency Method** 🧮
+   
    In this method, we first find the frequency of all the words in our text data. We do this by creating a dictionary where each word is associated with its frequency. Once we have the frequency dictionary, we tokenize our text data. Finally, we select the sentences that contain the most high-frequency words and store them in our final summary data.
 
 Here is the output of the Summarization of MSA Wikipedia Page. It is a 111 words summary:
@@ -49,7 +50,8 @@ Here is the output of the Summarization of MSA Wikipedia Page. It is a 111 words
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J4BvJBUsQZYoMCHsGR8-zYgEPQ4_Huu_?usp=sharing)
 
- - **Text Summarization Using Hugging Face Transformers**
+ - **Text Summarization Using Hugging Face Transformers** 🚀
+ - 
 I used the HuggingFace transformers library. The Transformers library provides thousands of pre-trained models to perform tasks such as text summarization. the two pre-trained models that i try and worked are the following:
 
 1. [Albert](https://huggingface.co/albert-base-v2) ⭐️: 
