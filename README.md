@@ -22,7 +22,7 @@ And here is  the input data  for Egyptian Arabic:
 1. Text Preprocessing
 there is many nlp .........
 
-the main two are: **NLTK and SpaCy**
+the main two are: **NLTK and PyArabic**
 because 
 but I choose NLTK
 
