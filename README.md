@@ -22,7 +22,7 @@ And here is  the input data  for Egyptian Arabic:
 # Text Preprocessing
 
 **NLTK and PyArabic** are both popular Python NLP libraries. NLTK is a general-purpose NLP library, while PyArabic is specialized for processing Arabic text.
-NLTK is a mature library with a large community of users and developers. Moreover, provides a wide range of NLP features, including tokenization, stemming, part-of-speech tagging, and named entity recognition. Also, its easy to use. In other hand, PyArabic is a specialized library that provides several features that are not available in NLTK, such as support for Arabic morphology and syntax.
+NLTK is a mature library with a large community of users and developers. Moreover, provides a wide range of NLP features, including tokenization, stemming, part-of-speech tagging, and named entity recognition. Also, its easy to use. In other hand, PyArabic is a specialized library that provides several features that are not available in NLTK, such as Letters normalization and remove diacritics.
 Since in this task I want a general-purpose NLP library with a wide range of features, I choose NLTK.
 
 **NLTK vs PyArabic**
