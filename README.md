@@ -19,14 +19,14 @@ And here is  the input data  for Egyptian Arabic:
 
 
 
-1. Text Preprocessing
+# Text Preprocessing
 there is many nlp .........
 
 the main two are: **NLTK and PyArabic**
 because 
 but I choose NLTK
 
-# NLP Libraries Comparison
+**NLP Libraries Comparison**
 
 | Feature | NLTK | PyArabic |
 |---|---|---|
@@ -38,7 +38,7 @@ but I choose NLTK
  - **NLTK library**
 I used NLTK library to remove HTML tags, punctuations, and symbols from text. Also I used to define stop words.
 
-2. Text Summarization
+# Text Summarization
 
  - **Text Summarization Using the Frequency Method**
    In this method, we first find the frequency of all the words in our text data. We do this by creating a dictionary where each word is associated with its frequency. Once we have the frequency dictionary, we tokenize our text data. Finally, we select the sentences that contain the most high-frequency words and store them in our final summary data.
@@ -70,6 +70,8 @@ Summarization Output. It is a 59 words summary:
 I have noticed that the mBART-50 model only outputs the first words of a text based on the maximum length specified.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1odB49lxv9dqipToxO4ww6eTqqCTv18eG?usp=sharing)
+
+
 
 
 
