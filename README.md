@@ -2,7 +2,7 @@
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/tner.svg)](https://pypi.python.org/pypi/tner/)
 
 For this task the following is used:
-1. for text preprossing: NLTK library
+1. for text preprocessing: NLTK library
 2. for text summarization two different strategies used:
    - Frequency Method
    - Transformers
