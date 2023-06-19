@@ -26,6 +26,15 @@ the main two are: **NLTK and PyArabic**
 because 
 but I choose NLTK
 
+# NLP Libraries Comparison
+
+| Feature | NLTK | PyArabic |
+|---|---|---|
+| Maturity | Mature | Actively maintained |
+| Community | Large | Small but active |
+| Features | Wide range | Specialized for Arabic text processing |
+
+
  - **NLTK library**
 I used NLTK library to remove HTML tags, punctuations, and symbols from text. Also I used to define stop words.
 
