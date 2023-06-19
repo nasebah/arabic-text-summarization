@@ -51,7 +51,7 @@ Here is the output of the Summarization of MSA Wikipedia Page. It is a 111 words
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J4BvJBUsQZYoMCHsGR8-zYgEPQ4_Huu_?usp=sharing)
 
  - **Text Summarization Using Hugging Face Transformers** 🚀
- - 
+   
 I used the HuggingFace transformers library. The Transformers library provides thousands of pre-trained models to perform tasks such as text summarization. the two pre-trained models that i try and worked are the following:
 
 1. [Albert](https://huggingface.co/albert-base-v2) ⭐️: 
